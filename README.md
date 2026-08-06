@@ -44,10 +44,7 @@ Open to discussing work, collaborations, projects, or ideas.
 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parthsidpara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parthsidpara&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthsidpara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://gstats.parths.me/api/stats?username=parthsidpara&theme=transparent&show=commits%2Cprs%2Cissues%2Cstreak&count_private=true&show_icons=true)
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
